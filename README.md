@@ -23,4 +23,4 @@ Tags: Tags reviewer gave the hotel.
 days_since_review: Duration between the review date and scrape date.
 Additional_Number_of_Scoring: There are also some guests who just made a scoring on the service rather than a review. This number indicates how many valid scores without review in there.
 lat: Latitude of the hotel
-lng: longtitude of the hotel
+lng: longtitude of the hotel.
